@@ -1,0 +1,3 @@
+I am attesting that this GitHub handle gangelis is linked to the Tezos account tz1eJyuKHtG5Z2jxdJVywu86qu7PxXzbpcuY for tzprofiles
+
+sig:edsigtbQVrYjBpFgLhBFK5WjTBJbKbAYfuXcXCLmpcJ5RDpeDm1YmvzawgiQqSPjkkcJwCYx2Eb8iz3wR8c1GzWXbjds5V9qPew
